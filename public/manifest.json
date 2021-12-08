@@ -1,6 +1,6 @@
 {
-  "name": "Transitive Bullshit",
-  "short_name": "Transitive BS",
+  "name": "zhangyu's blog",
+  "short_name": "zhangyu's blog",
   "icons": [
     {
       "src": "/favicon-16x16.png",
@@ -13,23 +13,13 @@
       "sizes": "32x32"
     },
     {
-      "src": "/favicon-96x96.png",
-      "type": "image/png",
-      "sizes": "96x96"
-    },
-    {
       "src": "/apple-touch-icon.png",
       "type": "image/png",
-      "sizes": "180x180"
+      "sizes": "128x128"
     },
     {
-      "src": "/android-chrome-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "/android-chrome-512x512.png",
-      "sizes": "512x512",
+      "src": "/android-chrome-128x128.png",
+      "sizes": "128x128",
       "type": "image/png"
     }
   ],
