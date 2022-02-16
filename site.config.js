@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '65173cf8731b49a4b940ab72e744bf7a',
+  rootNotionPageId: 'd05ffcf555c74a0d83b7c5f9c2aef8b2',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: "zhangyu's blog",
-  domain: 'transitivebullsh.it',
+  domain: 'imoctopus.cool',
   author: '张宇',
 
   // open graph metadata (optional)
@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  github: 'zyxbb',
+  github: 'imoctopus',
   // linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
